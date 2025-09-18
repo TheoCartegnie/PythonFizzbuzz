@@ -1,0 +1,10 @@
+[project]
+name = "day-2"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.13"
+dependencies = [
+    "bottle>=0.13.4",
+    "bottle-extras>=0.1.0",
+    "phytest>=1.4.1",
+]
